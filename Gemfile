@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gemspec
 
 # Whitelisted plugins not included in runtime dependencies.
-gem "jekyll-octicons"
+gem "bulma-clean-theme"
 
 group :test do
   gem "rubocop", "~> 0.79"
